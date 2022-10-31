@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codeByAshreet/NewsApp.git/static/css/main.073c9b0a.css",
-    "main.js": "/codeByAshreet/NewsApp.git/static/js/main.ac193eeb.js",
-    "static/js/787.4c026eef.chunk.js": "/codeByAshreet/NewsApp.git/static/js/787.4c026eef.chunk.js",
-    "static/media/Loading.gif": "/codeByAshreet/NewsApp.git/static/media/Loading.925e6c7d586c5cbf1edb.gif",
-    "index.html": "/codeByAshreet/NewsApp.git/index.html",
-    "main.073c9b0a.css.map": "/codeByAshreet/NewsApp.git/static/css/main.073c9b0a.css.map",
-    "main.ac193eeb.js.map": "/codeByAshreet/NewsApp.git/static/js/main.ac193eeb.js.map",
-    "787.4c026eef.chunk.js.map": "/codeByAshreet/NewsApp.git/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/codeByAshreet/newsapp.git/static/css/main.073c9b0a.css",
+    "main.js": "/codeByAshreet/newsapp.git/static/js/main.9d61bb32.js",
+    "static/js/787.4c026eef.chunk.js": "/codeByAshreet/newsapp.git/static/js/787.4c026eef.chunk.js",
+    "static/media/Loading.gif": "/codeByAshreet/newsapp.git/static/media/Loading.925e6c7d586c5cbf1edb.gif",
+    "index.html": "/codeByAshreet/newsapp.git/index.html",
+    "main.073c9b0a.css.map": "/codeByAshreet/newsapp.git/static/css/main.073c9b0a.css.map",
+    "main.9d61bb32.js.map": "/codeByAshreet/newsapp.git/static/js/main.9d61bb32.js.map",
+    "787.4c026eef.chunk.js.map": "/codeByAshreet/newsapp.git/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ac193eeb.js"
+    "static/js/main.9d61bb32.js"
   ]
 }
