@@ -8,7 +8,7 @@ export default class News extends Component {
   static defaultProps={
     
     pageSize:9,
-    category:'general',
+    category:'General',
 
 
   }
