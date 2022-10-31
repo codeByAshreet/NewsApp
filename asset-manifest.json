@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/codeByAshreet/NewsApp.git/static/css/main.073c9b0a.css",
-    "main.js": "/codeByAshreet/NewsApp.git/static/js/main.bb8236a4.js",
-    "static/js/787.c19cb8e4.chunk.js": "/codeByAshreet/NewsApp.git/static/js/787.c19cb8e4.chunk.js",
+    "main.js": "/codeByAshreet/NewsApp.git/static/js/main.381dd73e.js",
+    "static/js/787.5d3dbc58.chunk.js": "/codeByAshreet/NewsApp.git/static/js/787.5d3dbc58.chunk.js",
     "static/media/Loading.gif": "/codeByAshreet/NewsApp.git/static/media/Loading.925e6c7d586c5cbf1edb.gif",
     "index.html": "/codeByAshreet/NewsApp.git/index.html",
     "main.073c9b0a.css.map": "/codeByAshreet/NewsApp.git/static/css/main.073c9b0a.css.map",
-    "main.bb8236a4.js.map": "/codeByAshreet/NewsApp.git/static/js/main.bb8236a4.js.map",
-    "787.c19cb8e4.chunk.js.map": "/codeByAshreet/NewsApp.git/static/js/787.c19cb8e4.chunk.js.map"
+    "main.381dd73e.js.map": "/codeByAshreet/NewsApp.git/static/js/main.381dd73e.js.map",
+    "787.5d3dbc58.chunk.js.map": "/codeByAshreet/NewsApp.git/static/js/787.5d3dbc58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bb8236a4.js"
+    "static/js/main.381dd73e.js"
   ]
 }
