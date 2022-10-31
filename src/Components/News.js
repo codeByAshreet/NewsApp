@@ -8,7 +8,8 @@ export default class News extends Component {
   static defaultProps={
     
     pageSize:9,
-    category:'general'
+    category:'general',
+
 
   }
   static propTypes={
@@ -42,7 +43,7 @@ export default class News extends Component {
       articles:parseddata.articles,
       totalResults:parseddata.totalResults,
       loading:false,
-      // page:this.state.page
+      // page:this.page
     });
     
     this.props.setProgress(100);
