@@ -35,15 +35,15 @@ export default class App extends Component {
             <News setProgress={this.setProgress} key="sports" pageSize={9} category={"sports"} />
            
           </Route>
-          <Route exact  path="/Entertainment">
+          <Route exact  path="/newsapp/Entertainment">
             <News setProgress={this.setProgress} key="entertainment" pageSize={9} category={"entertainment"} />
       
           </Route>
         
-          <Route exact  path="/Health">
+          <Route exact  path="/newsapp/Health">
             <News setProgress={this.setProgress} key="health" pageSize={9} category={"health"} />
           </Route>
-          <Route exact  path="/Technology">
+          <Route exact  path="/newsapp/Technology">
             <News setProgress={this.setProgress} key="technology" pageSize={9} category={"technology"} />
           </Route>
         </Switch>
