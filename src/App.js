@@ -28,22 +28,22 @@ export default class App extends Component {
       />
         <Switch>
         
-          <Route exact  path="/newsapp">
+          <Route exact  path="/">
              <News setProgress={this.setProgress} key="general"  pageSize={9} category={"general"} /> 
           </Route>
-          <Route exact  path="/newsapp/Sports">
+          <Route exact  path="/Sports">
             <News setProgress={this.setProgress} key="sports" pageSize={9} category={"sports"} />
            
           </Route>
-          <Route exact  path="/newsapp/Entertainment">
+          <Route exact  path="/Entertainment">
             <News setProgress={this.setProgress} key="entertainment" pageSize={9} category={"entertainment"} />
       
           </Route>
         
-          <Route exact  path="/newsapp/Health">
+          <Route exact  path="/Health">
             <News setProgress={this.setProgress} key="health" pageSize={9} category={"health"} />
           </Route>
-          <Route exact  path="/newsapp/Technology">
+          <Route exact  path="/Technology">
             <News setProgress={this.setProgress} key="technology" pageSize={9} category={"technology"} />
           </Route>
         </Switch>

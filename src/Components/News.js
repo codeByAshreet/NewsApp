@@ -9,20 +9,16 @@ export default class News extends Component {
     
     pageSize:9,
     category:'general',
-
-
   }
   static propTypes={
     pageSize: PropTypes.number,
     category: PropTypes.string
-    
   }
   capitalise =(string)=>{
     return string.charAt(0).toUpperCase()+string.slice(1);
   }
   constructor(props)
   {
-    
     super(props);
     this.state={
       articles:[],
@@ -43,7 +39,7 @@ export default class News extends Component {
       articles:parseddata.articles,
       totalResults:parseddata.totalResults,
       loading:false,
-      // page:this.page
+      // page:this.page+1
     });
     
     this.props.setProgress(100);
